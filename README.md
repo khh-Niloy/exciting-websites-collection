@@ -6,3 +6,7 @@
 
 ## [huly](https://huly.io/)
 ![Screenshot](images/huly.png)
+
+## [madebyshape](https://madebyshape.co.uk/)
+![Screenshot](images/madebyshape.png)
+
