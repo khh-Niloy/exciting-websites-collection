@@ -1,3 +1,2 @@
-## <a href="https://cuberto.com/" target="_blank" rel="noopener noreferrer">Cuberto</a>
+## [Cuberto](https://cuberto.com/)
 ![Screenshot](images/cuberto.png)
-
