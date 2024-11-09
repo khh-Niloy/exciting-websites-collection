@@ -3,3 +3,6 @@
 
 ## [emanuelepapale](https://www.emanuelepapale.com/)
 ![Screenshot](images/emanuelepapale.png)
+
+## [huly](https://huly.io/)
+![Screenshot](images/huly.png)
