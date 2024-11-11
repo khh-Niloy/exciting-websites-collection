@@ -8,7 +8,7 @@
 ![Screenshot](images/huly.png)
 
 ## [wedevs](https://wedevs.com/)
-![Screenshot](images/weDevs.png)
+![Screenshot](images/wedevs.png)
 
 ## [madebyshape](https://madebyshape.co.uk/)
 ![Screenshot](images/madebyshape.png)
