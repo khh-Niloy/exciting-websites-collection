@@ -7,6 +7,9 @@
 ## [huly](https://huly.io/)
 ![Screenshot](images/huly.png)
 
+## [wedevs](https://wedevs.com/)
+![Screenshot](images/weDevs.png)
+
 ## [madebyshape](https://madebyshape.co.uk/)
 ![Screenshot](images/madebyshape.png)
 
