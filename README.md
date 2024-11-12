@@ -13,6 +13,9 @@
 ## [madebyshape](https://madebyshape.co.uk/)
 ![Screenshot](images/madebyshape.png)
 
+## [display](https://www.display.care/)
+![Screenshot](images/display.png)
+
 ## [morgen](https://www.morgen.so/)
 ![Screenshot](images/morgen.png)
 
