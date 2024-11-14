@@ -4,17 +4,20 @@
 ## [emanuelepapale](https://www.emanuelepapale.com/)
 ![Screenshot](images/emanuelepapale.png)
 
-## [huly](https://huly.io/)
-![Screenshot](images/huly.png)
+## [longines](https://www.longines.com/zulu/)
+![Screenshot](images/longines.png)
 
 ## [wedevs](https://wedevs.com/)
 ![Screenshot](images/wedevs.png)
 
-## [madebyshape](https://madebyshape.co.uk/)
-![Screenshot](images/madebyshape.png)
-
 ## [display](https://www.display.care/)
 ![Screenshot](images/display.png)
+
+## [huly](https://huly.io/)
+![Screenshot](images/huly.png)
+
+## [madebyshape](https://madebyshape.co.uk/)
+![Screenshot](images/madebyshape.png)
 
 ## [morgen](https://www.morgen.so/)
 ![Screenshot](images/morgen.png)
